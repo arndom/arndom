@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Nabil!](https://nabilalamin.netlify.app/)
+### Hello, I'm  [Nabil!](https://nabilalamin.netlify.app/)
 
 I make websites, webapps, mobile & web games and AI driven apps. Feel free to checkout my repos and ask me anything, would love to answer them 😁
 
