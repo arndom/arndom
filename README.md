@@ -5,7 +5,6 @@ I make websites, webapps, mobile & web games and AI driven apps. Feel free to ch
 <br/>
 
 ![arndom's github stats](https://github-readme-stats.vercel.app/api?username=arndom&show_icons=true&theme=tokyonight&count_private=true)
-![arndom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arndom&show_icons=true&theme=tokyonight&layout=compact)  
 
 <br/>
 
