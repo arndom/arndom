@@ -7,6 +7,10 @@
 
 ### 📜 Recent Blog Posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy a ML model as an API using Google Compute engine, Docker and flask](https://arndom.hashnode.dev/how-to-deploy-a-ml-model-as-an-api-using-google-compute-engine-docker-and-flask)
+- [Charity Hunter: Bringing charities to you](https://arndom.hashnode.dev/charity-hunter-bringing-charities-to-you)
+- [Devy Brew: Get your daily dose of featured articles on the popular dev platforms sent right to you](https://arndom.hashnode.dev/devy-brew-get-your-daily-dose-of-featured-articles-on-the-popular-dev-platforms-sent-right-to-you)
+- [Ideabox-  A direct feed of ideas for Devs, creators and the curious](https://arndom.hashnode.dev/ideabox-a-direct-feed-of-ideas-for-devs-creators-and-the-curious)
 <!-- BLOG-POST-LIST:END -->
 
 
