@@ -7,9 +7,9 @@
 
 ### 📜 Recent Blog Posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [How to make your React App a Progressive Web App (PWA)](https://arndom.hashnode.dev/how-to-make-your-react-app-a-progressive-web-app-pwa)
 - [How to create a simple selected navbar link in react](https://arndom.hashnode.dev/how-to-create-a-simple-selected-navbar-link-in-react)
 - [How to deploy a ML model as an API](https://arndom.hashnode.dev/how-to-deploy-a-ml-model-as-an-api)
-- [Charity Hunter: Bringing charities to you](https://arndom.hashnode.dev/charity-hunter-bringing-charities-to-you)
 <!-- BLOG-POST-LIST:END -->
 
 
