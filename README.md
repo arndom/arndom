@@ -7,9 +7,9 @@
 
 ### 📜 Recent Blog Posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [4 useful react npm packages for beginners](https://arndom.hashnode.dev/4-useful-react-npm-packages-for-beginners)
 - [How to add a context menu to your chrome extension in react](https://arndom.hashnode.dev/how-to-add-a-context-menu-to-your-chrome-extension-in-react)
 - [How to make your React app a Chrome extension](https://arndom.hashnode.dev/how-to-make-your-react-app-a-chrome-extension)
-- [How to make your React App a Progressive Web App (PWA)](https://arndom.hashnode.dev/how-to-make-your-react-app-a-progressive-web-app-pwa)
 <!-- BLOG-POST-LIST:END -->
 
 
