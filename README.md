@@ -7,9 +7,9 @@
 
 ### 📜 Recent Blog Posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [Simple HOC in React](https://arndom.hashnode.dev/simple-hoc-in-react)
 - [Using CSS to debug strange paddings/margins](https://arndom.hashnode.dev/using-css-to-debug-strange-paddingsmargins)
 - [Maker Flow - All your favorite creative dev tools & links in one place](https://arndom.hashnode.dev/maker-flow-all-your-favorite-creative-dev-tools-and-links-in-one-place)
-- [4 useful react npm packages for beginners](https://arndom.hashnode.dev/4-useful-react-npm-packages-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 
