@@ -7,9 +7,9 @@
 
 ### 📜 Recent Blog Posts 📜
 <!-- BLOG-POST-LIST:START -->
+- [Pull up socials and more from a single email: Kelvin Data API Introduction](https://arndom.hashnode.dev/pull-up-socials-and-more-from-a-single-email-kelvin-data-api-introduction)
 - [Simple HOC in React](https://arndom.hashnode.dev/simple-hoc-in-react)
 - [Using CSS to debug strange paddings/margins](https://arndom.hashnode.dev/using-css-to-debug-strange-paddingsmargins)
-- [Maker Flow - All your favorite creative dev tools & links in one place](https://arndom.hashnode.dev/maker-flow-all-your-favorite-creative-dev-tools-and-links-in-one-place)
 <!-- BLOG-POST-LIST:END -->
 
 
