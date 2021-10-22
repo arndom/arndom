@@ -13,12 +13,12 @@
 - [Using CSS to debug strange paddings/margins](https://arndom.hashnode.dev/using-css-to-debug-strange-paddingsmargins)
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp;
 ### 👨‍💻 Ongoing Side Projects
 - [NFTinder](https://women.artwork.rocks/)
 - [Real Characters](https://reanimate.netlify.app/)
 - [Maker Flow](https://maker-flow.web.app/)
 
+&nbsp;
 
 
 
