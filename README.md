@@ -16,7 +16,7 @@
 &nbsp;
 ## 👨‍💻 Ongoing Side Projects
 - [NFTinder](https://women.artwork.rocks/)
-- [Real Characters](https://reanimate.netlify.app/)
+- [Real Characters](https://animatd.netlify.app/)
 - [Maker Flow](https://maker-flow.web.app/)
 
 &nbsp;
