@@ -1,4 +1,4 @@
-<h3 align ="center"> Hey guys, welcome to my space <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
+<h3 align ="center"> welcome to my space <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h3>
 &nbsp;
 
 ⚡ Stats ⚡            |  🔥 Streak 🔥
@@ -13,13 +13,11 @@
 - [Using CSS to debug strange paddings/margins](https://arndom.hashnode.dev/using-css-to-debug-strange-paddingsmargins)
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp;
 ## Ongoing Side Projects 💻
 - [NFTinder](https://women.artwork.rocks/)
 - [Real Characters](https://animatd.netlify.app/)
 - [Maker Flow](https://maker-flow.web.app/)
 
-&nbsp;
 ## Netizen links 🔗
 - [Dev.to](https://dev.to/arndom)
 - [Hashnode](https://arndom.hashnode.dev/)
