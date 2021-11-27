@@ -19,15 +19,24 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+&nbsp;
+### My links 🌍
+
+- [Dev.to](https://dev.to/arndom)
+- [Hashnode](https://arndom.hashnode.dev/)
+- [LinkedIn](https://www.linkedin.com/in/nabil-alamin/)
+
+
 <details>
   <summary><b>✨  More From Me</b></summary>
-  <br/>
 
+&nbsp;
 ### Ongoing Side Projects 💻
 
 - [NFTinder](https://women.artwork.rocks/)
 - [Real Characters (P.O.C)](https://animatd.netlify.app/)
 
+&nbsp;
 ### Bored Builds 🛠
 
 - [Password Generator](https://generat8password.netlify.app/)
@@ -35,8 +44,3 @@
 
 </details>
 
-### My links 🌍
-
-- [Dev.to](https://dev.to/arndom)
-- [Hashnode](https://arndom.hashnode.dev/)
-- [LinkedIn](https://www.linkedin.com/in/nabil-alamin/)
