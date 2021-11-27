@@ -1,4 +1,6 @@
-<img src= "./my-octo-lang.png" width="250px" align="right"/>
+<p align="center">
+<img src= "./my-octo-lang.png" width="250px" /><img src= "./hello_arndom1.png" width="200px"/>
+</p>
 
 | ⚡ Stats ⚡            |  🔥 Streak 🔥                 |
 | :-------------------------:|:-------------------------: |
