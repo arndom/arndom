@@ -11,11 +11,9 @@
 ### Recent Blog Posts 📜
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Animated characters brought to life](https://arndom.hashnode.dev/animated-characters-brought-to-life)
 - [Pull up socials and more from a single email: Kelvin Data API Introduction](https://arndom.hashnode.dev/pull-up-socials-and-more-from-a-single-email-kelvin-data-api-introduction)
 - [Simple HOC in React](https://arndom.hashnode.dev/simple-hoc-in-react)
-
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
