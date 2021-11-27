@@ -18,7 +18,6 @@
 - [Simple HOC in React](https://arndom.hashnode.dev/simple-hoc-in-react)
 
 <!-- BLOG-POST-LIST:END -->
-
 &nbsp;
 ### My links 🌍
 
