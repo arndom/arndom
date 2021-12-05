@@ -10,17 +10,19 @@
 ### Recent Blog Posts &nbsp;📜
 
 <!-- BLOG-POST-LIST:START -->
-- [Get a custom Github octocat in your README](https://arndom.hashnode.dev/get-a-custom-github-octocat-in-your-readme)
+
 - [Animated characters brought to life](https://arndom.hashnode.dev/animated-characters-brought-to-life)
 - [Pull up socials and more from a single email: Kelvin Data API Introduction](https://arndom.hashnode.dev/pull-up-socials-and-more-from-a-single-email-kelvin-data-api-introduction)
+- [Simple HOC in React](https://arndom.hashnode.dev/simple-hoc-in-react)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### My links &nbsp;🌍
 
 <p align="left">
-<a href="https://dev.to/arndom" target="blank"><img src="https://img.icons8.com/windows/512/000000/dev.png" height="50" width="50"/></a>
-<a href="https://www.linkedin.com/in/nabil-alamin/" target="blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="50" width="50"/></a>
-<a href="https://arndom.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/480/000000/hashnode.png" height="50" width="50"/></a>
+<a href="https://dev.to/arndom" target="blank"><img src="https://img.icons8.com/windows/512/000000/dev.png" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/nabil-alamin/" target="blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" height="40" width="40"/></a>
+<a href="https://arndom.hashnode.dev/" target="blank"><img src="https://img.icons8.com/color/480/000000/hashnode.png" height="40" width="40"/></a>
 </p>
 
 <details>
