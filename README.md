@@ -12,9 +12,9 @@
 ### 📕 &nbsp; Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [View Github Issues as stats in a compact way](https://arndom.hashnode.dev/view-github-issues-as-stats-in-a-compact-way)
 - [Get a custom Github octocat in your README](https://arndom.hashnode.dev/get-a-custom-github-octocat-in-your-readme)
 - [Animated characters brought to life](https://arndom.hashnode.dev/animated-characters-brought-to-life)
-- [Pull up socials and more from a single email: Kelvin Data API Introduction](https://arndom.hashnode.dev/pull-up-socials-and-more-from-a-single-email-kelvin-data-api-introduction)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
