@@ -1,11 +1,11 @@
-name: Latest hashnde blog post workflow
+name: Latest blog posts
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-hashnde-blog:
-    name: Update this repo's README with the latest hashnde blog posts
+    name: Update this repo's README with my latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
