@@ -12,9 +12,11 @@
 ### 📕 &nbsp; Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [View Github Issues as stats in a compact way](https://arndom.hashnode.dev/view-github-issues-as-stats-in-a-compact-way)
-- [Get a custom Github octocat in your README](https://arndom.hashnode.dev/get-a-custom-github-octocat-in-your-readme)
-- [Animated characters brought to life](https://arndom.hashnode.dev/animated-characters-brought-to-life)
+- [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
+- [AudioSign: Converting audio to animated sign language &lpar;FIN&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-fin-19a0)
+- [AudioSign: Converting audio to animated sign language &lpar;P2&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-p2-3gn6)
+- [AudioSign: Converting audio to animated sign language &lpar;P1&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-p1-25f7)
+- [Copy to Clipboard in JS](https://dev.to/arndom/copy-to-clipboard-in-js-4b0d)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
