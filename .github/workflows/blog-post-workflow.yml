@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://arndom.hashnode.dev/rss.xml"
-          max_post_count: 3
+          feed_list: "https://dev.to/feed/arndom"
+          max_post_count: 5
