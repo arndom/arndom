@@ -26,8 +26,8 @@
 [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=prussian&background=0D1117)](https://git.io/streak-stats)
 
-<!-- Sometime later -->
-<img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=prussian&background=0D1117" />
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=prussian&background=0D1117" /> -->
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=github-dark-blue&background=0D1117" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=holi-theme&background=0D1117" /> -->
