@@ -1,13 +1,12 @@
-<p align="center">
-<img src= "./my-octo-lang.png" width="200px" /><img src= "./hello.png" width="200px"/>
-</p>
-
-
-| ⚡ Stats ⚡ | 🔥 Streak 🔥 |
+<!-- | ⚡ Stats ⚡ | 🔥 Streak 🔥 |
 | :-: | :-: |
 | ![arndom's github stats](https://github-readme-stats.vercel.app/api?username=arndom&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=tokyonight_duo&hide_border=true&background=0D1117)](https://git.io/streak-stats) |
 
-<br/>
+<br/> -->
+
+### Hi there I am [Nabil](https://arndom.netlify.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+---
 
 ### 📕 &nbsp; Recent Blog Posts
 
@@ -19,3 +18,16 @@
 - [Copy to Clipboard in JS](https://dev.to/arndom/copy-to-clipboard-in-js-4b0d)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://dev.to/arndom)
+
+---
+
+### 📊 &nbsp; My Stats
+
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/arndom/arndom/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- Sometime later -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=prussian&background=0D1117" />
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=github-dark-blue&background=0D1117" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=arndom&theme=holi-theme&background=0D1117" /> -->
