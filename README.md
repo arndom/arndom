@@ -4,7 +4,7 @@
 
 <br/> -->
 
-### Hi there I'm [Nabil](https://arndom.netlify.app/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Nabil](https://arndom.netlify.app/) 👋
 This is where my code lives
 
 - &nbsp;I’m currently working on stuff :wink:
