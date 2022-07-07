@@ -4,11 +4,9 @@
 
 <br/> -->
 
-### Hi there, I'm [Nabil](https://arndom.netlify.app/) 👋
-This is where my code lives
-
-- &nbsp;I’m currently working on stuff :wink:
-- &nbsp;I’m learning Solidity, web scraping (python)
+### Hi, I'm [Nabil](https://arndom.netlify.app/) 👋
+- &nbsp;I’m currently working on the frontend
+- &nbsp;I’m learning backend (js), web scraping (python)
 - &nbsp;Ask me about anything related to Javascript/Typescript/React/Next
 - &nbsp;Fun fact: I :heart: reading manhwa and watching crime shows
 
