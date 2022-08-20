@@ -15,11 +15,11 @@
 ### 📕 &nbsp; Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
 - [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
 - [AudioSign: Converting audio to animated sign language &lpar;FIN&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-fin-19a0)
 - [AudioSign: Converting audio to animated sign language &lpar;P2&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-p2-3gn6)
 - [AudioSign: Converting audio to animated sign language &lpar;P1&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-p1-25f7)
-- [Copy to Clipboard in JS](https://dev.to/arndom/copy-to-clipboard-in-js-4b0d)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://dev.to/arndom)
 
