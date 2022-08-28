@@ -15,7 +15,7 @@
 ### 📕 &nbsp; Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🖼️ Pic-Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
+- [🖼️ Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
 - [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
 - [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
 - [AudioSign: Converting audio to animated sign language &lpar;FIN&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-fin-19a0)
