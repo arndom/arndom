@@ -26,7 +26,7 @@
 <br />
 <br />
 
-## ✍🏼 &nbsp; More from me
+## 💭 More from me
 
 <details>
   <summary><b>📕 &nbsp; Recent Blog Posts</b></summary>
