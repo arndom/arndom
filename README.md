@@ -6,7 +6,7 @@
 
 ## Hi there, I'm Nabil! 👋
 
-### I'm a Sofware Engineer | Frontend Engineer
+### I'm a Full Stack Engineer | Frontend Engineer
 
 ### Languages and Tools:
 
