@@ -33,11 +33,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Play a Game of Tetris generated from your GitHub](https://dev.to/arndom/play-a-game-of-tetris-generated-from-your-github-2mf4)
 - [Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
 - [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
 - [Artsy: Audio to Art](https://dev.to/arndom/artsy-audio-to-art-2pbp)
 - [AudioSign: Converting audio to animated sign language &lpar;FIN&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-fin-19a0)
-- [AudioSign: Converting audio to animated sign language &lpar;P2&rpar;](https://dev.to/arndom/audiosign-converting-audio-to-animated-sign-language-p2-3gn6)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://dev.to/arndom)
 </details>
