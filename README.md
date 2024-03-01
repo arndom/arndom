@@ -27,7 +27,7 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a Trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
+- [Making a simple trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
 - [Play a Game of Tetris generated from your GitHub](https://dev.to/arndom/play-a-game-of-tetris-generated-from-your-github-2mf4)
 - [Pic Placeholder: categorised image placeholders](https://dev.to/arndom/pic-placeholder-categorised-image-placeholders-8kj)
 - [Introducing Pic Placeholder](https://dev.to/arndom/introducing-pic-placeholder-4cn1)
