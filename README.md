@@ -27,7 +27,7 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Netlify Image CDN: Transforms Demo](https://dev.to/arndom/net-gala-web-edition-143f)
+- [Net Gala: Netlify Img Transforms](https://dev.to/arndom/net-gala-web-edition-143f)
 - [WebDev Docs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
 - [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
 - [Rewrite Movie/TV endings with AI](https://dev.to/arndom/ending-maker-ai-5aeo)
