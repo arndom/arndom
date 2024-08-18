@@ -27,11 +27,11 @@
   <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Stellar with Next.js, Nuxt 3 and SvelteKit](https://dev.to/arndom/integrating-stellar-with-nextjs-nuxt-3-and-sveltekit-2f4c)
 - [Net Gala: Netlify Img Transforms](https://dev.to/arndom/net-gala-web-edition-143f)
 - [WebDev Docs Workflow](https://dev.to/arndom/webdevdocs-workflow-46p0)
 - [Recreating a GIF with CSS: Earth Day Edition](https://dev.to/arndom/recreating-a-gif-with-css-earth-day-edition-3f5a)
 - [Rewrite Movie/TV endings with AI](https://dev.to/arndom/ending-maker-ai-5aeo)
-- [Making a simple trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://dev.to/arndom)
 </details>
